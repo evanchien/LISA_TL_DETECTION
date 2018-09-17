@@ -149,13 +149,13 @@ The initial learning rate is set at 0.00002. It is lower that the default value 
 Here I took three youtube driving videos of three different cities (Chicago, NYC and SF), made annotated version of them and took some screenshots showing below. If interested, the links to the annotated videos is also attached for references.
 
 ### NYC
-![NYC STOP](./img/NYC_annotated.mp4\ -\ VLC\ media\ player_062.png)
-![NYC GO](./img/NYC_annotated.mp4\ -\ VLC\ media\ player_063.png)
+![NYC STOP](./img/NYC_STOP.png)
+![NYC GO](./img/NYC_GO.png)
 
 ### Chicago
-![CHI STOP](./img/Chicago_annotated.mp4\ -\ VLC\ media\ player_061.png)
-![CHI GO](./img/Chicago_annotated.mp4\ -\ VLC\ media\ player_060.png)
+![CHI STOP](./img/CHI_STOP.png)
+![CHI GO](./img/CHI_GO.png)
 
 ### SF
-![SF STOP](./img/SF_annotated.mp4\ -\ VLC\ media\ player_065.png)
-![SF GO](./img/SF_annotated.mp4\ -\ VLC\ media\ player_064.png)
+![SF STOP](./img/SF_STOP.png)
+![SF GO](./img/SF_GO.png)
