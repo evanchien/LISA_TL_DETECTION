@@ -1,0 +1,35 @@
+item {
+  id: 2
+  name: 'warning'
+}
+
+item {
+  id: 1
+  name: 'go'
+}
+
+item {
+  id: 6
+  name: 'stopLeft'
+}
+
+item {
+  id: 7
+  name: 'goForward'
+}
+
+item {
+  id: 3
+  name: 'stop'
+}
+
+item {
+  id: 5
+  name: 'warningLeft'
+}
+
+item {
+  id: 4
+  name: 'goLeft'
+}
+
