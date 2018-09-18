@@ -158,4 +158,4 @@ Here I took three youtube driving videos of three different cities (Chicago, NYC
 
 ### SF
 ![SF STOP](./img/SF_STOP.png)
-![SF GO](./img/SF_GO.png)
+{% include image.html url="https://youtu.be/vszRiPL570k" image=./img/SF_GO.png" %}
