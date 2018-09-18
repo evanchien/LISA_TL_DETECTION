@@ -144,7 +144,7 @@ The initial learning rate is set at 0.00002. It is lower that the default value 
 
 * The dipping in the middle of the training is due to wrong dataset imported after break/resume
 
-## Result
+## Screenshots
 
 Here I took three youtube driving videos of three different cities (Chicago, NYC and SF), made annotated version of them and took some screenshots showing below. If interested, the links to the annotated videos is also attached for references.
 
@@ -161,3 +161,16 @@ Here I took three youtube driving videos of three different cities (Chicago, NYC
 ### SF
 ![SF STOP](./img/SF_STOP.png)
 [![SF GO](./img/SF_GO.png)](https://youtu.be/vszRiPL570k)
+* Click on the last image for the actual video.
+
+## Results
+
+Despite the result in the screenshots above look promising, the real time detection accuracy is not great. This reflects the lower mAP and Regression results above. 
+
+Plus, as one can found in the video, the car moves in slow-motion due to lower detection speed.
+
+## Citation
+
+Morten Bornø Jensen, Mark Philip Philipsen, Andreas Møgelmose, Thomas B Moeslund, and Mohan M Trivedi. “Vision for Looking at Traffic Lights: Issues, Survey, and Perspectives”. In: IEEE Transactions on Intelligent Transportation Systems (2015).
+
+Mark Philip Philipsen, Morten Bornø Jensen, Andreas Møgelmose, Thomas B Moeslund, and Mohan M Trivedi. “Learning Based Traffic Light Detection: Evaluation on Challenging Dataset”. In: 18th IEEE Intelligent Transportation Systems Conference (2015).
